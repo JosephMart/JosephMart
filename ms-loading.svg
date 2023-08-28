@@ -16,13 +16,14 @@
   <animateTransform
     attributeName="transform"
     type="scale"
-    repeatCount="1"
-    dur="5s"
+    repeatCount="indefinite"
+    fill="freeze"
+    dur="7s"
     keyTimes="0;.5;1"
     additive="sum"
     calcMode="spline"
     keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
-    values="0.3;1.5;1"
+    values="0.3;1.5;0.3"
     begin="0s">
   </animateTransform>
   <rect width="48" height="48" rx="8" fill="black">
