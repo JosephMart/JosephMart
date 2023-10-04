@@ -41,7 +41,7 @@
             additive="sum"
             calcMode="spline"
             keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
-            values="0 24 24;360 24 24;0 24 24"
+            values="0 24 24;-2160 24 24;0 24 24"
             begin="0s">
         </animateTransform>
         <image width="48" height="48"
